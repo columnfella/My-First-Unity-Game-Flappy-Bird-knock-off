@@ -16,12 +16,6 @@ Welcome to my first-ever Unity game! 🎮 This is a simple **Flappy Bird clone**
 
 ---
 
-### **What’s Next?**  
-- Adding better animations and visuals.  
-- Polishing gameplay and optimizing code.  
-
----
-
 ### **Feedback Welcome**  
 This is just the beginning—let me know your thoughts! 😊  
 
