@@ -2,23 +2,12 @@
 
 Welcome to my first-ever Unity game! 🎮 This is a simple **Flappy Bird clone** made to kickstart my game development journey. The code might be messy, but it’s all part of the learning process.  
 
----
+For any of you GameDev enthusiasts, you might recognize some assets and code of this repository from somewhere else, specifically from this famous YouTube video Unity tutorial:
 
-### **How to Play**  
-- **Tap or click** to flap the bird’s wings.  
-- **Avoid the pipes** and score points the longer you survive!  
+https://youtu.be/XtQMytORBmM?si=AnsrMng6FVfK3eoN
 
----
+Though I've made some personal additions to the code, so it's not 100% identical to the tutorial.
 
-### **Features**  
-- Infinite scrolling.  
-- Basic 2D gameplay with room for improvement.  
+### As I've mentioned before, this repository is just the starting point of my learning journey.
 
----
-
-### **Feedback Welcome**  
-This is just the beginning—let me know your thoughts! 😊  
-
---- 
-
-Thank you for playing! 🚀  
+Thank you for playing!
