@@ -2,7 +2,7 @@
 
 Welcome to my first-ever Unity game! 🎮 This is a simple **Flappy Bird clone** made to kickstart my game development journey. The code might be messy, but it’s all part of the learning process.  
 
-For any of you GameDev enthusiasts, you might recognize some assets and code of this repository from somewhere else, specifically from this famous YouTube video Unity tutorial:
+*<span style="color:red">For any of you GameDev enthusiasts</span>*, you might recognize some assets and code of this repository from somewhere else, specifically from this famous YouTube tutorial:
 
 https://youtu.be/XtQMytORBmM?si=AnsrMng6FVfK3eoN
 
